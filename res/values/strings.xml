@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AuraDioneActivity!</string>
+    <string name="app_name">Aura Dione</string>
+    <string name="buttonNext">Next &gt;&gt;</string>
+    <string name="buttonPrevious">&lt;&lt; Previous</string>
+
+</resources>
